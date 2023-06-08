@@ -1,0 +1,16 @@
+# Sample YAML file for testing
+game_settings:
+  title: My Game
+  resolution:
+	width: 800
+	height: 600
+  audio:
+	bgm: on
+	sfx: on
+  levels:
+	- name: Level 1
+	  difficulty: easy
+	- name: Level 2
+	  difficulty: medium
+	- name: Level 3
+	  difficulty: hard
